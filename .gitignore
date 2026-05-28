@@ -1,0 +1,100 @@
+# ── Environment ──────────────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── Node ─────────────────────────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Sessions (NEVER upload) ───────────────────────────────────────────────────
+data/sessions/
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+data/logs/
+data/*.log
+data/system-*.log
+data/pm2-*.log
+
+# ── Temp / cache ─────────────────────────────────────────────────────────────
+data/temp_media/
+data/sticker_cache/
+data/yt_cache/
+data/menu-songs/
+
+# ── Personal state files (sensitive) ─────────────────────────────────────────
+data/botState*.json
+data/intel.json
+data/owner.json
+data/pairing_registry.json
+data/radar-state.json
+data/node-id.txt
+data/stickerCmds*.json
+
+# ── Telegram personal data ────────────────────────────────────────────────────
+data/telegram-ai-mode.json
+data/telegram-ai-vibe.json
+data/telegram-ai-sticker-cache.json
+data/telegram-auto-dl.json
+data/telegram-auto-sticker.json
+data/telegram-auto-url.json
+data/telegram-force-join.json
+data/telegram-global-ai-settings.json
+data/telegram-group-members.json
+data/telegram-group-protect.json
+data/telegram-music-dl.json
+data/telegram-roles.json
+data/telegram-support-inbox.json
+core/data/telegram-roles.json
+
+# ── Group/user data (personal) ────────────────────────────────────────────────
+data/group_settings-*.json
+data/group_meta_cache.json
+data/gs-config.json
+data/warmup-config*.json
+data/intel_join_*.json
+data/telegram-intel-node-cycles.json
+data/link-validation-cache.json
+data/wa-banned-accounts.json
+data/sticker_packs.json
+data/menu-song-library.json
+
+# ── Cookies / keys ────────────────────────────────────────────────────────────
+data/youtube_cookies.txt
+*.pem
+*.key
+*.cert
+*.crt
+
+# ── Archives / backups ────────────────────────────────────────────────────────
+backups/
+*.tar.gz
+*.zip
+*.rar
+*.bak
+*.backup
+Omega-v5.tar.gz
+
+# ── PM2 ──────────────────────────────────────────────────────────────────────
+.pm2/
+ecosystem.config.js.backup
+
+# ── Levanter (separate project) ───────────────────────────────────────────────
+levanter/
+
+# ── Redis ────────────────────────────────────────────────────────────────────
+dump.rdb
+
+# ── OS / IDE ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+tmp/
+temp/
+*.tmp

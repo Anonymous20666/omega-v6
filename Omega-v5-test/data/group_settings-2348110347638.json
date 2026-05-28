@@ -1,0 +1,2197 @@
+{
+  "_loadedFor": "2348110347638",
+  "2348110347638:120363407192477464@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "124331300499641@lid": {
+        "msgTimes": [
+          1778946642964
+        ],
+        "shortMsgTimes": [
+          1778946642964
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "101516551708802@lid": {
+        "msgTimes": [
+          1778952891613,
+          1778952892957,
+          1778952897293
+        ],
+        "shortMsgTimes": [
+          1778952891613,
+          1778952892957,
+          1778952897293
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952916408,
+          1778952917772
+        ],
+        "shortMsgTimes": [
+          1778952916408,
+          1778952917772
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363424211634292@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "191216859766972@lid": {
+        "msgTimes": [
+          1778946662995
+        ],
+        "shortMsgTimes": [
+          1778946662995
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363028494719122@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "150783517524147@lid": {
+        "msgTimes": [
+          1778946890439,
+          1778946891229
+        ],
+        "shortMsgTimes": [
+          1778946890439,
+          1778946891229
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363169890883220@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "53176325677256@lid": {
+        "msgTimes": [
+          1778950543873
+        ],
+        "shortMsgTimes": [
+          1778950543873
+        ],
+        "linkTimes": [
+          1778950543873,
+          1778950543873
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363425655731059@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "95396206530740@lid": {
+        "msgTimes": [
+          1778948294718
+        ],
+        "shortMsgTimes": [
+          1778948294718
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "273993496010841@lid": {
+        "msgTimes": [
+          1778948463473
+        ],
+        "shortMsgTimes": [
+          1778948463473
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363423502151313@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "79002148560996@lid": {
+        "msgTimes": [
+          1778948336483
+        ],
+        "shortMsgTimes": [
+          1778948336483
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "90517174005890@lid": {
+        "msgTimes": [
+          1778949772274
+        ],
+        "shortMsgTimes": [
+          1778949772274
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "223561990066317@lid": {
+        "msgTimes": [
+          1778950824989
+        ],
+        "shortMsgTimes": [
+          1778950824989
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363161545892813@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "225803912618206@lid": {
+        "msgTimes": [
+          1778953172198
+        ],
+        "shortMsgTimes": [
+          1778953172198
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363400398785260@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "30971411849243@lid": {
+        "msgTimes": [
+          1778950374534,
+          1778950375823,
+          1778950376680,
+          1778950377932,
+          1778950403662
+        ],
+        "shortMsgTimes": [
+          1778950403662
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952891713,
+          1778952893304
+        ],
+        "shortMsgTimes": [
+          1778952891713,
+          1778952893304
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "119409251242085@lid": {
+        "msgTimes": [
+          1778950000708,
+          1778950008973
+        ],
+        "shortMsgTimes": [
+          1778950008973
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "46025540669660@lid": {
+        "msgTimes": [
+          1778950855518
+        ],
+        "shortMsgTimes": [
+          1778950855518
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "19572753203393@lid": {
+        "msgTimes": [
+          1778950376140
+        ],
+        "shortMsgTimes": [
+          1778950376140
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "247781679702108@lid": {
+        "msgTimes": [
+          1778952699401
+        ],
+        "shortMsgTimes": [
+          1778952699401
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "75020881686625@lid": {
+        "msgTimes": [
+          1778953355763
+        ],
+        "shortMsgTimes": [
+          1778953355763
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363405889595949@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "257617238716534@lid": {
+        "msgTimes": [
+          1778950314824,
+          1778950323638
+        ],
+        "shortMsgTimes": [
+          1778950323638
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363408594346908@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "106086413631532@lid": {
+        "msgTimes": [
+          1778949068117,
+          1778949070181
+        ],
+        "shortMsgTimes": [
+          1778949068117,
+          1778949070181
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952900598,
+          1778952901734
+        ],
+        "shortMsgTimes": [
+          1778952900598,
+          1778952901734
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "94786237272204@lid": {
+        "msgTimes": [
+          1778950267484
+        ],
+        "shortMsgTimes": [
+          1778950267484
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "81106900619307@lid": {
+        "msgTimes": [
+          1778951037859
+        ],
+        "shortMsgTimes": [
+          1778951037859
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "240548921213002@lid": {
+        "msgTimes": [
+          1778952961755
+        ],
+        "shortMsgTimes": [
+          1778952961755
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "32977463574698@lid": {
+        "msgTimes": [
+          1778951306894,
+          1778951313225
+        ],
+        "shortMsgTimes": [
+          1778951313225
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "210492605874365@lid": {
+        "msgTimes": [
+          1778953224948
+        ],
+        "shortMsgTimes": [
+          1778953224948
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363424254075974@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "83907252875361@lid": {
+        "msgTimes": [
+          1778949126299
+        ],
+        "shortMsgTimes": [
+          1778949126299
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "274542916313220@lid": {
+        "msgTimes": [
+          1778951359746,
+          1778951363056
+        ],
+        "shortMsgTimes": [
+          1778951359746,
+          1778951363056
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363422446112518@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "194373341978785@lid": {
+        "msgTimes": [
+          1778949209455,
+          1778949211206
+        ],
+        "shortMsgTimes": [
+          1778949209455,
+          1778949211206
+        ],
+        "linkTimes": [
+          1778949209455,
+          1778949211206
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "226452704362610@lid": {
+        "msgTimes": [
+          1778950682927
+        ],
+        "shortMsgTimes": [
+          1778950682927
+        ],
+        "linkTimes": [
+          1778950682927
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "109260058980435@lid": {
+        "msgTimes": [
+          1778949372079
+        ],
+        "shortMsgTimes": [
+          1778949372079
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "18138334773267@lid": {
+        "msgTimes": [
+          1778950268520
+        ],
+        "shortMsgTimes": [
+          1778950268520
+        ],
+        "linkTimes": [
+          1778950268520
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "63647808266339@lid": {
+        "msgTimes": [
+          1778950725822,
+          1778950728154,
+          1778950752752,
+          1778950755458
+        ],
+        "shortMsgTimes": [
+          1778950752752,
+          1778950755458
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "25323815051269@lid": {
+        "msgTimes": [
+          1778951005411
+        ],
+        "shortMsgTimes": [
+          1778951005411
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "13542803656781@lid": {
+        "msgTimes": [
+          1778952818723
+        ],
+        "shortMsgTimes": [
+          1778952818723
+        ],
+        "linkTimes": [
+          1778952818723
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952900313,
+          1778952901920
+        ],
+        "shortMsgTimes": [
+          1778952900313,
+          1778952901920
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "101516551708802@lid": {
+        "msgTimes": [
+          1778952913078,
+          1778952923156
+        ],
+        "shortMsgTimes": [
+          1778952923156
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "109389209980969@lid": {
+        "msgTimes": [
+          1778953256944
+        ],
+        "shortMsgTimes": [
+          1778953256944
+        ],
+        "linkTimes": [
+          1778953256944
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "163337941811204@lid": {
+        "msgTimes": [
+          1778953279320
+        ],
+        "shortMsgTimes": [
+          1778953279320
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363408035862786@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "151226536693823@lid": {
+        "msgTimes": [
+          1778949383558
+        ],
+        "shortMsgTimes": [
+          1778949383558
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952900699,
+          1778952902358
+        ],
+        "shortMsgTimes": [
+          1778952900699,
+          1778952902358
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "36443502178344@lid": {
+        "msgTimes": [
+          1778953373680,
+          1778953402652
+        ],
+        "shortMsgTimes": [
+          1778953402652
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "146708197564570@lid": {
+        "msgTimes": [
+          1778951511988,
+          1778951518398,
+          1778951525403,
+          1778951532849,
+          1778951539786
+        ],
+        "shortMsgTimes": [
+          1778951539786
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "169849280008288@lid": {
+        "msgTimes": [
+          1778951735229
+        ],
+        "shortMsgTimes": [
+          1778951735229
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "258085172031611@lid": {
+        "msgTimes": [
+          1778952062009
+        ],
+        "shortMsgTimes": [
+          1778952062009
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "49865308549356@lid": {
+        "msgTimes": [
+          1778952168446
+        ],
+        "shortMsgTimes": [
+          1778952168446
+        ],
+        "linkTimes": [
+          1778952168446
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "263647255388245@lid": {
+        "msgTimes": [
+          1778952525797,
+          1778952530986
+        ],
+        "shortMsgTimes": [
+          1778952525797,
+          1778952530986
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "72628635181095@lid": {
+        "msgTimes": [
+          1778953372959
+        ],
+        "shortMsgTimes": [
+          1778953372959
+        ],
+        "linkTimes": [
+          1778953372959
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "104376932819086@lid": {
+        "msgTimes": [
+          1778953404555
+        ],
+        "shortMsgTimes": [
+          1778953404555
+        ],
+        "linkTimes": [
+          1778953404555
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363424732869786@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952916393,
+          1778952917586
+        ],
+        "shortMsgTimes": [
+          1778952916393,
+          1778952917586
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "272473262145670@lid": {
+        "msgTimes": [
+          1778949787807,
+          1778949793071
+        ],
+        "shortMsgTimes": [
+          1778949787807,
+          1778949793071
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "246420242231467@lid": {
+        "msgTimes": [
+          1778953272173,
+          1778953273591
+        ],
+        "shortMsgTimes": [
+          1778953272173,
+          1778953273591
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363423203234463@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952908320,
+          1778952910036
+        ],
+        "shortMsgTimes": [
+          1778952908320,
+          1778952910036
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "47786259173586@lid": {
+        "msgTimes": [
+          1778949619822
+        ],
+        "shortMsgTimes": [
+          1778949619822
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "93304540639407@lid": {
+        "msgTimes": [
+          1778949727903,
+          1778949728565,
+          1778949729334,
+          1778949729489,
+          1778949729976,
+          1778949731629,
+          1778949732669,
+          1778949740829
+        ],
+        "shortMsgTimes": [
+          1778949740829
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "270368946294887@lid": {
+        "msgTimes": [
+          1778950260769
+        ],
+        "shortMsgTimes": [
+          1778950260769
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "5532488356007@lid": {
+        "msgTimes": [
+          1778951300478
+        ],
+        "shortMsgTimes": [
+          1778951300478
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "280586337947711@lid": {
+        "msgTimes": [
+          1778951432743
+        ],
+        "shortMsgTimes": [
+          1778951432743
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "166009830912248@lid": {
+        "msgTimes": [
+          1778951639648
+        ],
+        "shortMsgTimes": [
+          1778951639648
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "274633899131105@lid": {
+        "msgTimes": [
+          1778952368419,
+          1778952369024
+        ],
+        "shortMsgTimes": [
+          1778952368419,
+          1778952369024
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "13203467698416@lid": {
+        "msgTimes": [
+          1778952336760
+        ],
+        "shortMsgTimes": [
+          1778952336760
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "38328942481597@lid": {
+        "msgTimes": [
+          1778953117791
+        ],
+        "shortMsgTimes": [
+          1778953117791
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363406309845217@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952916582,
+          1778952918160
+        ],
+        "shortMsgTimes": [
+          1778952916582,
+          1778952918160
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "12327227244675@lid": {
+        "msgTimes": [
+          1778949750437
+        ],
+        "shortMsgTimes": [
+          1778949750437
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "193179726962764@lid": {
+        "msgTimes": [
+          1778949829000
+        ],
+        "shortMsgTimes": [
+          1778949829000
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "125521073582292@lid": {
+        "msgTimes": [
+          1778950936525,
+          1778950938393
+        ],
+        "shortMsgTimes": [
+          1778950936525,
+          1778950938393
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "123777300086876@lid": {
+        "msgTimes": [
+          1778953241524
+        ],
+        "shortMsgTimes": [
+          1778953241524
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "65021744795806@lid": {
+        "msgTimes": [
+          1778953248405,
+          1778953254172
+        ],
+        "shortMsgTimes": [
+          1778953248405,
+          1778953254172
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "243653981278400@lid": {
+        "msgTimes": [
+          1778953253731,
+          1778953255500,
+          1778953258788,
+          1778953261021
+        ],
+        "shortMsgTimes": [
+          1778953255500,
+          1778953258788,
+          1778953261021
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363425457623233@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952938104,
+          1778952940073
+        ],
+        "shortMsgTimes": [
+          1778952938104,
+          1778952940073
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363425695159063@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952938303
+        ],
+        "shortMsgTimes": [
+          1778952938303
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363406261539428@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952938053
+        ],
+        "shortMsgTimes": [
+          1778952938053
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "270660685328561@lid": {
+        "msgTimes": [
+          1778949957555
+        ],
+        "shortMsgTimes": [
+          1778949957555
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363426822274328@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952923756,
+          1778952924802,
+          1778952950472,
+          1778952953410
+        ],
+        "shortMsgTimes": [
+          1778952950472,
+          1778952953410
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363385715000772@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952944307,
+          1778952945823
+        ],
+        "shortMsgTimes": [
+          1778952944307,
+          1778952945823
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363405332333727@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778953130724,
+          1778953131119
+        ],
+        "shortMsgTimes": [
+          1778953130724,
+          1778953131119
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "98514453434576@lid": {
+        "msgTimes": [
+          1778953130248
+        ],
+        "shortMsgTimes": [
+          1778953130248
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363427514947239@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952923709
+        ],
+        "shortMsgTimes": [
+          1778952923709
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "101516551708802@lid": {
+        "msgTimes": [
+          1778953367257,
+          1778953368226,
+          1778953369200
+        ],
+        "shortMsgTimes": [
+          1778953367257,
+          1778953368226,
+          1778953369200
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363406612830329@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952928900,
+          1778952930747,
+          1778952955310,
+          1778952956506
+        ],
+        "shortMsgTimes": [
+          1778952955310,
+          1778952956506
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "101516551708802@lid": {
+        "msgTimes": [
+          1778952915252,
+          1778952917124,
+          1778952919864
+        ],
+        "shortMsgTimes": [
+          1778952915252,
+          1778952917124,
+          1778952919864
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363428383090368@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952923684,
+          1778952946966
+        ],
+        "shortMsgTimes": [
+          1778952946966
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363409368117719@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952890933,
+          1778952892682
+        ],
+        "shortMsgTimes": [
+          1778952890933,
+          1778952892682
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "161005623615591@lid": {
+        "msgTimes": [
+          1778951573154
+        ],
+        "shortMsgTimes": [
+          1778951573154
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363342828939485@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "52768437973062@lid": {
+        "msgTimes": [
+          1778950118686,
+          1778950121533
+        ],
+        "shortMsgTimes": [
+          1778950118686,
+          1778950121533
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363026258647692@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "24464536408237@lid": {
+        "msgTimes": [
+          1778950678984
+        ],
+        "shortMsgTimes": [
+          1778950678984
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363403502888646@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "277768738758696@lid": {
+        "msgTimes": [
+          1778950791482
+        ],
+        "shortMsgTimes": [
+          1778950791482
+        ],
+        "linkTimes": [
+          1778950791482
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952907805,
+          1778952909833
+        ],
+        "shortMsgTimes": [
+          1778952907805,
+          1778952909833
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "25323815051269@lid": {
+        "msgTimes": [
+          1778953018938
+        ],
+        "shortMsgTimes": [
+          1778953018938
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363406020317690@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "125215946338385@lid": {
+        "msgTimes": [
+          1778950814938
+        ],
+        "shortMsgTimes": [
+          1778950814938
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363410470938500@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "98514453434576@lid": {
+        "msgTimes": [
+          1778950944619
+        ],
+        "shortMsgTimes": [
+          1778950944619
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363427034008057@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "113559505793148@lid": {
+        "msgTimes": [
+          1778951089620
+        ],
+        "shortMsgTimes": [
+          1778951089620
+        ],
+        "linkTimes": [
+          1778951089620
+        ],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952908709,
+          1778952910260
+        ],
+        "shortMsgTimes": [
+          1778952908709,
+          1778952910260
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363425473073422@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "116733335580756@lid": {
+        "msgTimes": [
+          1778951619696
+        ],
+        "shortMsgTimes": [
+          1778951619696
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2349097497114:120363407116079894@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {},
+    "maxWarns": 3
+  },
+  "2348110347638:120363156717703803@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "136941089603732@lid": {
+        "msgTimes": [
+          1778952299701,
+          1778952300146,
+          1778952301615,
+          1778952302500
+        ],
+        "shortMsgTimes": [
+          1778952299701,
+          1778952300146,
+          1778952301615,
+          1778952302500
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363407858466541@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "128896984969337@lid": {
+        "msgTimes": [
+          1778952585478
+        ],
+        "shortMsgTimes": [
+          1778952585478
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952891719,
+          1778952893274
+        ],
+        "shortMsgTimes": [
+          1778952891719,
+          1778952893274
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363403426704979@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "9896091222038@lid": {
+        "msgTimes": [
+          1778952737560
+        ],
+        "shortMsgTimes": [
+          1778952737560
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363427044032459@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "78478279991499@lid": {
+        "msgTimes": [
+          1778953061035
+        ],
+        "shortMsgTimes": [
+          1778953061035
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "101516551708802@lid": {
+        "msgTimes": [
+          1778952937163,
+          1778952956253,
+          1778952958048,
+          1778952960542
+        ],
+        "shortMsgTimes": [
+          1778952956253,
+          1778952958048,
+          1778952960542
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778952930189,
+          1778952932312
+        ],
+        "shortMsgTimes": [
+          1778952930189,
+          1778952932312
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "62299154985094@lid": {
+        "msgTimes": [
+          1778953021033
+        ],
+        "shortMsgTimes": [
+          1778953021033
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363425077884948@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "68213392052319@lid": {
+        "msgTimes": [
+          1778953371324
+        ],
+        "shortMsgTimes": [
+          1778953371324
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363424978991430@g.us": {
+    "antilink": true,
+    "antibot": true,
+    "antigm": true,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": true,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "98514453434576@lid": {
+        "msgTimes": [
+          1778953447003,
+          1778953465671,
+          1778953476954
+        ],
+        "shortMsgTimes": [
+          1778953476954
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "2348110347638@s.whatsapp.net": {
+        "msgTimes": [
+          1778953441637,
+          1778953447439,
+          1778953466087
+        ],
+        "shortMsgTimes": [
+          1778953466087
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  },
+  "2348110347638:120363428380457523@g.us": {
+    "antilink": false,
+    "antibot": false,
+    "antigm": false,
+    "antispam": false,
+    "antichannel": false,
+    "antidemote": false,
+    "antigstatus": false,
+    "antidemoteMode": "admins",
+    "antilinkAction": "kick",
+    "antibotAction": "kick",
+    "antigmAction": "kick",
+    "antispamAction": "warn",
+    "antichannelAction": "kick",
+    "antigstatusAction": "kick",
+    "warns": {},
+    "spamTracker": {},
+    "strictTracker": {
+      "104376932819086@lid": {
+        "msgTimes": [
+          1778953438677,
+          1778953446154
+        ],
+        "shortMsgTimes": [
+          1778953446154
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      },
+      "213082672463938@lid": {
+        "msgTimes": [
+          1778953456237,
+          1778953457908
+        ],
+        "shortMsgTimes": [
+          1778953456237,
+          1778953457908
+        ],
+        "linkTimes": [],
+        "lastActionAt": 0,
+        "botHits": 0
+      }
+    },
+    "maxWarns": 3
+  }
+}

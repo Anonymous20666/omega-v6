@@ -1,0 +1,59 @@
+{
+  "-1003389412933": {
+    "antiLink": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "antiForward": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "antiSpam": {
+      "enabled": true,
+      "action": "warn",
+      "limit": 6,
+      "windowSec": 12
+    },
+    "welcome": {
+      "enabled": true,
+      "useAi": true,
+      "textTemplate": "",
+      "media": {
+        "type": "photo",
+        "fileId": "AgACAgQAAyEFAATKBlZFAAIiKmoFtBcvtVLgir5EM156QGhv3N_EAALFD2sbOrQwUHgjCDfV5mT0AQADAgADeAADOwQ"
+      }
+    },
+    "warns": {
+      "8351796243": {
+        "count": 2,
+        "updatedAt": 1779705029226
+      }
+    }
+  },
+  "-1003600375440": {
+    "antiLink": {
+      "enabled": false,
+      "action": "delete"
+    },
+    "antiForward": {
+      "enabled": false,
+      "action": "delete"
+    },
+    "antiSpam": {
+      "enabled": false,
+      "action": "warn",
+      "limit": 6,
+      "windowSec": 12
+    },
+    "welcome": {
+      "enabled": true,
+      "useAi": true,
+      "textTemplate": "",
+      "media": {
+        "type": "",
+        "fileId": ""
+      }
+    },
+    "warns": {}
+  }
+}

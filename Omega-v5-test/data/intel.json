@@ -1,0 +1,70 @@
+{
+  "knownLinks": [
+    "HiTGCZGq9xA0BZM39We2KT",
+    "KaJMminWus3H73aNhmD5yf",
+    "HwdY3JDuT6W8izjQGv5sbL",
+    "DF3NyyDy1FAK0XLwAv1NHb",
+    "JRQFuC4LsXoDT28pEV4TDE",
+    "BZXlFIX4J2U8yUkVk3pfS8",
+    "CQuCN3RzpLyBOYsRELqzIh",
+    "DA6W2FJCJo96fGykBGKrAD",
+    "GsOrkE4acjeCEq2GMjppZP",
+    "Fyu7JhrN2WJCXSwXSz8Sl5",
+    "J2u6L9KTRpD10uXINe5Y3G",
+    "HYZkQORpOxX03ACjB7fW9o",
+    "GjAQUaELrSv6wU9y4vgLqX",
+    "CFBHXQgvQkKHFJKuojLGer"
+  ],
+  "pendingQueue": [],
+  "groupLinks": {
+    "2348186240233@s.whatsapp.net": [
+      {
+        "code": "C7et0u4knUqAOriN3IrngN",
+        "seenAt": 1779721156892
+      }
+    ],
+    "120363405801465741@g.us": [
+      {
+        "code": "FQJ8KCk8XEG2ZWHZvHjDPJ",
+        "seenAt": 1779759377481
+      },
+      {
+        "code": "DktNFFzbSfAHLDWmPR9Taq",
+        "seenAt": 1779770917891
+      },
+      {
+        "code": "JihwTy4VYOADwmywez55bL",
+        "seenAt": 1779770917891
+      },
+      {
+        "code": "BUehZCpDiHnFpNC7CADj14",
+        "seenAt": 1779772259642
+      }
+    ],
+    "120363426613770654@g.us": [
+      {
+        "code": "KwRyCawcOyHGc10U5Nw9jx",
+        "seenAt": 1779772484943
+      }
+    ]
+  },
+  "botJoinState": {
+    "2348175199889": {
+      "dailyJoins": 3,
+      "lastJoinDate": "2026-05-26",
+      "lastJoinTimestamp": 1779754638171
+    }
+  },
+  "dailyJoins": 3,
+  "lastJoinDate": "2026-05-26",
+  "lastJoinTimestamp": 1779754638171,
+  "autoJoinEnabled": true,
+  "autoJoinBotId": "2348175199889",
+  "autoJoinStartedAt": 1779751840766,
+  "realtimeAutoJoin": false,
+  "emergencyPauseUntil": 1779754304159,
+  "realtimeWindowStart": 0,
+  "realtimeWindowCount": 0,
+  "consecutiveFails": 0,
+  "rateLimitHits": 0
+}

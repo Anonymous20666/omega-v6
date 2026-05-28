@@ -1,0 +1,12 @@
+{
+  "8380969639_2347065217750_1": {
+    "joinDelayMin": 45000,
+    "joinDelayMax": 90000,
+    "maxJoinsPerRun": 17,
+    "rateHitsStop": 5
+  },
+  "8380969639_2349099798187_1": {
+    "failStreakStop": 19,
+    "dailyMaxJoinAttempts": 100
+  }
+}

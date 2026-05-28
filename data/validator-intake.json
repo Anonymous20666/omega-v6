@@ -1,0 +1,69 @@
+{
+  "F0T5vdyLqyoJwdSgpqkXtH": {
+    "code": "F0T5vdyLqyoJwdSgpqkXtH",
+    "status": "PENDING",
+    "source": "passive_scrape",
+    "botId": "4915510459559",
+    "groupJid": "120363405801465741@g.us",
+    "scrapedAt": 1779952370595,
+    "updatedAt": 1779952370595,
+    "lastSeenAt": 1779952370595
+  },
+  "Kq51lK8yd3mJNoUCQUwVE5": {
+    "code": "Kq51lK8yd3mJNoUCQUwVE5",
+    "status": "PENDING",
+    "source": "join_feedback",
+    "reason": "join_intel_dead",
+    "returnedAt": 1779955014701,
+    "updatedAt": 1779955014701,
+    "lastSeenAt": 1779955014701
+  },
+  "JZgMaLJbAj72zlQ14jx4uB": {
+    "code": "JZgMaLJbAj72zlQ14jx4uB",
+    "status": "PENDING",
+    "source": "join_feedback",
+    "reason": "join_intel_dead",
+    "returnedAt": 1779955593256,
+    "updatedAt": 1779955593256,
+    "lastSeenAt": 1779955593256
+  },
+  "E2iHutNvFmYAUMQQJ9PQWg": {
+    "code": "E2iHutNvFmYAUMQQJ9PQWg",
+    "status": "PENDING",
+    "source": "passive_scrape",
+    "botId": "2348177391022",
+    "groupJid": "120363402185028650@g.us",
+    "scrapedAt": 1779956824997,
+    "updatedAt": 1779956824997,
+    "lastSeenAt": 1779956824997
+  },
+  "IShXBJJpSae1iquCXuFYnv": {
+    "code": "IShXBJJpSae1iquCXuFYnv",
+    "status": "PENDING",
+    "source": "passive_scrape",
+    "botId": "2348177391022",
+    "groupJid": "120363409915081629@g.us",
+    "scrapedAt": 1779956824998,
+    "updatedAt": 1779956824998,
+    "lastSeenAt": 1779956824998
+  },
+  "FdLOm5qbST8K3v54KPtUAp": {
+    "code": "FdLOm5qbST8K3v54KPtUAp",
+    "status": "PENDING",
+    "source": "passive_scrape",
+    "botId": "4915510343829",
+    "groupJid": "120363423574231732@g.us",
+    "scrapedAt": 1779957172101,
+    "updatedAt": 1779957172101,
+    "lastSeenAt": 1779957172101
+  },
+  "C9YrCmapardERz4UPCSR9Y": {
+    "code": "C9YrCmapardERz4UPCSR9Y",
+    "status": "PENDING",
+    "source": "join_feedback",
+    "reason": "join_intel_dead",
+    "returnedAt": 1779959801661,
+    "updatedAt": 1779959801661,
+    "lastSeenAt": 1779959801661
+  }
+}
